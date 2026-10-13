@@ -1,5 +1,5 @@
 # TriAgent Advisory System
-### Built at OSSome Hacks 3.0 — Claw & Shield Track
+
 
 ---
 
